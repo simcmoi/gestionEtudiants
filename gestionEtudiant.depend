@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1489418003 source:c:\users\alexandre\desktop\gestionetudiant\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Matieres.h"
+	"Notes.h"
+	"Etudiant.h"
+	"Utiles.h"
+
+1487954309 source:c:\users\wxff6039\desktop\gestionetudiant\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1488921884 source:c:\users\aszymkiw\desktop\gestionetudiant\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Matieres.h"
+	"Notes.h"
+	"Etudiant.h"
+	"Utiles.h"
+
+1488835035 c:\users\alexandre\desktop\gestionetudiant\matieres.h
+
+1488900056 source:c:\users\alexandre\desktop\gestionetudiant\matieres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Matieres.h"
+
+1488835035 c:\users\aszymkiw\desktop\gestionetudiant\matieres.h
+
+1488900056 source:c:\users\aszymkiw\desktop\gestionetudiant\matieres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Matieres.h"
+
+1488921697 c:\users\aszymkiw\desktop\gestionetudiant\notes.h
+	"Etudiant.h"
+	"Matieres.h"
+
+1488921772 source:c:\users\aszymkiw\desktop\gestionetudiant\notes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Notes.h"
+
+1489574559 source:c:\users\alexandre\desktop\gestionetudiant\notes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Notes.h"
+	"Etudiant.h"
+
+1488981888 c:\users\alexandre\desktop\gestionetudiant\notes.h
+	"Etudiant.h"
+	"Matieres.h"
+
+1488981076 source:c:\users\alexandre\desktop\gestionetudiant\etudiant.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"Etudiant.h"
+
+1488981859 c:\users\alexandre\desktop\gestionetudiant\etudiant.h
+
+1488909474 source:c:\users\aszymkiw\desktop\gestionetudiant\etudiant.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"Etudiant.h"
+
+1488835250 c:\users\aszymkiw\desktop\gestionetudiant\etudiant.h
+
+1488835040 c:\users\aszymkiw\desktop\gestionetudiant\utiles.h
+
+1488835045 source:c:\users\aszymkiw\desktop\gestionetudiant\utiles.c
+	<string.h>
+	"Utiles.h"
+
+1489399906 c:\users\alexandre\desktop\gestionetudiant\utiles.h
+
+1488835045 source:c:\users\alexandre\desktop\gestionetudiant\utiles.c
+	<string.h>
+	"Utiles.h"
+
